@@ -1,0 +1,13 @@
+INSTALL LIBRARIES (Ubuntu 14.04) :
+
+sudo apt-get install freeglut3-dev	- GLUT
+sudo apt-get install libglm-dev		- GLM
+sudo apt-get install libsoil-dev	- SOIL
+
+---------------------------------------------
+
+COMPILE PROJECT (from root dir) :
+
+make
+
+----------------------------------------------
